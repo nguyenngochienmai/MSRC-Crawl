@@ -1,0 +1,52 @@
+Product Family,Impact,Max Severity,Details,Details,Base Score
+Windows,Security Feature Bypass,Important,CVE-2024-30040,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-30040,8.8
+Windows,Information Disclosure,Important,CVE-2024-30039,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-30039,5.5
+Windows,Elevation of Privilege,Important,CVE-2024-30038,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-30038,7.8
+SQL Server,Information Disclosure,Important,CVE-2024-30054,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-30054,6.5
+Windows,Elevation of Privilege,Important,CVE-2024-30051,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-30051,7.8
+Windows,Elevation of Privilege,Important,CVE-2024-30049,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-30049,7.8
+Microsoft Office,Information Disclosure,Important,CVE-2024-30043,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-30043,6.5
+Microsoft Office,Remote Code Execution,Important,CVE-2024-30042,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-30042,7.8
+Windows,Elevation of Privilege,Important,CVE-2024-30037,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-30037,7.5
+Windows,Information Disclosure,Important,CVE-2024-30036,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-30036,6.5
+Windows,Elevation of Privilege,Important,CVE-2024-30035,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-30035,7.8
+Windows,Information Disclosure,Important,CVE-2024-30034,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-30034,5.5
+Windows,Elevation of Privilege,Important,CVE-2024-30033,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-30033,7.0
+Windows,Elevation of Privilege,Important,CVE-2024-30032,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-30032,7.8
+Windows,Elevation of Privilege,Important,CVE-2024-30031,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-30031,7.8
+Windows,Remote Code Execution,Important,CVE-2024-30029,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-30029,7.5
+Windows,Elevation of Privilege,Important,CVE-2024-30028,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-30028,7.8
+Windows,Elevation of Privilege,Important,CVE-2024-30027,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-30027,7.8
+Windows,Elevation of Privilege,Important,CVE-2024-30025,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-30025,7.8
+Windows,Remote Code Execution,Important,CVE-2024-30024,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-30024,7.5
+Windows,Elevation of Privilege,Important,CVE-2024-29994,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-29994,7.8
+Windows,Elevation of Privilege,Important,CVE-2024-26238,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-26238,7.8
+Windows,Security Feature Bypass,Moderate,CVE-2024-30050,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-30050,5.4
+Microsoft Office,Remote Code Execution,Critical,CVE-2024-30044,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-30044,7.2
+Windows,Remote Code Execution,Important,CVE-2024-30023,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-30023,7.5
+Windows,Remote Code Execution,Important,CVE-2024-30022,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-30022,7.5
+Windows,Remote Code Execution,Important,CVE-2024-30021,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-30021,6.8
+Windows,Remote Code Execution,Important,CVE-2024-30020,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-30020,8.1
+Windows,Denial of Service,Important,CVE-2024-30019,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-30019,6.5
+Windows,Elevation of Privilege,Important,CVE-2024-30018,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-30018,7.8
+Windows,Remote Code Execution,Important,CVE-2024-30017,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-30017,8.8
+Windows,Information Disclosure,Important,CVE-2024-30016,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-30016,5.5
+Windows,Remote Code Execution,Important,CVE-2024-30015,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-30015,7.5
+Windows,Remote Code Execution,Important,CVE-2024-30014,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-30014,7.5
+Windows,Remote Code Execution,Important,CVE-2024-30012,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-30012,6.8
+Windows,Denial of Service,Important,CVE-2024-30011,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-30011,6.5
+Windows,Remote Code Execution,Important,CVE-2024-30010,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-30010,8.8
+Windows,Remote Code Execution,Important,CVE-2024-30009,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-30009,8.8
+Windows,Information Disclosure,Important,CVE-2024-30008,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-30008,5.5
+Windows,Elevation of Privilege,Important,CVE-2024-30007,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-30007,8.8
+Windows,Remote Code Execution,Important,CVE-2024-30006,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-30006,8.8
+Windows,Remote Code Execution,Important,CVE-2024-30005,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-30005,6.8
+Windows,Remote Code Execution,Important,CVE-2024-30004,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-30004,6.8
+Windows,Remote Code Execution,Important,CVE-2024-30003,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-30003,6.8
+Windows,Remote Code Execution,Important,CVE-2024-30002,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-30002,6.8
+Windows,Remote Code Execution,Important,CVE-2024-30001,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-30001,6.8
+Windows,Remote Code Execution,Important,CVE-2024-30000,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-30000,6.8
+Windows,Remote Code Execution,Important,CVE-2024-29999,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-29999,6.8
+Windows,Remote Code Execution,Important,CVE-2024-29998,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-29998,6.8
+Windows,Remote Code Execution,Important,CVE-2024-29997,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-29997,6.8
+Windows,Elevation of Privilege,Important,CVE-2024-29996,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-29996,7.8
